@@ -320,7 +320,7 @@ nav ul li a {
 
 .card-logo {
   display: flex;
-  width: 100%;
+  /* width: 100%; */
   gap: 2%;
 }
 
@@ -816,8 +816,6 @@ form textarea {
   }
   #menu__toggle {
     opacity: 0;
-    margin-left: 50%;
-
 
   }
   #menu__toggle:checked + .menu__btn > span {
